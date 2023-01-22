@@ -1,6 +1,6 @@
 #### 1.0.0 (2023-01-21)
 
-##### Documentation Changes
+##### Documentaton Changes
 
 *  update .all-contributorsrc [skip ci] ([9891ef0a](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/9891ef0af110cc94f6e6b8bb61c4304131775ee1))
 *  update README.md [skip ci] ([1291534b](https://github.com/hasnainmakada-99/Open-Source-With-Hasnain/commit/1291534b7b56a3ef8d81dcbdb4e6c4139d41c0d5))
