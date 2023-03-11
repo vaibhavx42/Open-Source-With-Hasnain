@@ -131,6 +131,42 @@
       "contributions": [
         "tutorial"
       ]
+    },
+    {
+      "login": "Rishav1707",
+      "name": "Rishav Raj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97666287?v=4",
+      "profile": "https://linktr.ee/rishav.raj",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "Faizan-omer",
+      "name": "Faizan Omer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79092065?v=4",
+      "profile": "https://github.com/Faizan-omer",
+      "contributions": [
+        "tutorial"
+      ]
+    },
+    {
+      "login": "iqrafirdose",
+      "name": "Iqra Firdose ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114678694?v=4",
+      "profile": "https://github.com/iqrafirdose",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
+      "login": "alaminrifat",
+      "name": "Muhammad Al Amin Rifat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61446438?v=4",
+      "profile": "https://github.com/alaminrifat",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
